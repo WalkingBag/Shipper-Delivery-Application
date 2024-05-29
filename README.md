@@ -1,16 +1,6 @@
-# Shipper Delivery Management
+# <p align="center" > Project Tengoku (天国） </p>
 
-A new Flutter project.
+![Logo](https://github.com/WalkingBag/Shipper-Delivery-Application/assets/107095404/48f4428d-6e9b-4322-a0da-e64ad78503fd)
 
-## Getting Started
+<p align="center" > This is a school project for subject SWD, the targetted audiences for this product is "Shipper" who're angels ascended from Tengoku (Heaven). Delivering the item to customer with ease. </p>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
